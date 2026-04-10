@@ -1,1 +1,1 @@
-# krunal-portfolio-rgb.github.io
+# krunal-rgb.github.io
